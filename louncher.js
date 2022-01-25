@@ -25,6 +25,6 @@ class louncher{
     }
 
     attach(bodyA){
-        this.body.bodyA = bodyA 
+        this.body.bodyA = bodyA;
     }
 }
